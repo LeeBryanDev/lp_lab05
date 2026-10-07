@@ -1,0 +1,4 @@
+persona,Juan,Perez,jperez,1234
+persona,Ana,Gomez,agomez,abcd
+empresa,ACME,20123456789,acme,acme123
+empresa,TechSol,20987654321,techsol,tech456
